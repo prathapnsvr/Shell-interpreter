@@ -1,0 +1,11 @@
+Command:
+	CD
+Function:
+	CD refers to change directory.This changes the current directory to the path mentioned in the argument passed to it.
+Syntax :
+	CD <path>
+Internal working:
+	This uses chdir function to change the current directory to directory mentioned in the command.
+Examples:
+	CD home/downloads	This chnages the directory to downloads in home directory
+	CD .. 			This changes the directory to the root directory of present working directory

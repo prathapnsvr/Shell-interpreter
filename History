@@ -1,0 +1,9 @@
+Command:
+	History
+Function:
+	prints the last 10 commands entered along with there time and date on which they are entered and there status ie., either success or fail on execution
+Syntax:
+	History
+Internal Working:
+	It stores the attributes using a structure array of size 10 and print_history function to print the structure array.
+

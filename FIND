@@ -1,0 +1,9 @@
+Command:
+	FIND
+Function:
+	This search for the given file name in the current working directory and gives the file.
+Syntax:
+	FIND <filename>
+Bugs:
+	This can only work when the complete filename matches with the File present in the directory otherwise it shows file or directory not found error
+

@@ -1,0 +1,7 @@
+Command:
+	PWD
+Function:
+	This command prints the present working directory.
+Internal working:
+	This command uses the function getcwd in C to get the present working directory.
+
